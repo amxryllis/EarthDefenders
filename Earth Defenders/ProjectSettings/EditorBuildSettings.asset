@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/StartMenu.unity
+    guid: 6efdd1566b5434f74800bec039d44451
+  - enabled: 1
+    path: Assets/EarthDefendersArena.unity
+    guid: 53d4218bca7b64d3ab8a4e001607b67b
   m_configObjects: {}
